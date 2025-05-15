@@ -83,7 +83,8 @@ We provide binary masks:
 
 2. **Create and activate a virtual environment**
 
-    ```bashpython -m venv env
+    ```bash
+    python -m venv env
     source env/bin/activate  # or on Windows: source env/Scripts/activate
     ```
 
