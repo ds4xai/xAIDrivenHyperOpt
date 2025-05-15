@@ -6,11 +6,6 @@
 
 xAIDrivenHyperOpt is a research-oriented framework designed to optimize Deep Learning models for **spaceborne hyperspectral image classification**, using **explainable AI (xAI)** to guide hyperparameter selection.
 
-This repository supports the paper:
-
-> **Optimizing Deep Learning for Satellite Hyperspectral Data: an xAI-Driven Approach to Hyperparameter Selection**  
-> Michele Linardi, Sékou Dabo, Claudia Paris – *IGARSS 2025 Submission*
-
 ---
 
 ## 📌 About the Project
