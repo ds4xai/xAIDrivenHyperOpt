@@ -1,0 +1,10 @@
+torch==2.7.0 
+torchvision==0.22.0
+scipy==1.15.3
+scikit-learn==1.6.1
+rasterio==1.4.3
+spectral==0.24
+matplotlib==3.10.3
+tqdm==4.67.1
+captum==0.8.0
+holisticai==1.0.14

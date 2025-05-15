@@ -1,0 +1,17 @@
+# Ignore the processed_data directory in /data
+/data/processed_data/
+
+# Ignore all .npy files in /data
+/data/*.npy
+
+# Ignore the env directory
+/env/
+
+# Ignore all .log files at the root of the project
+/*.log
+
+# Ignore all files in runs directory
+/runs/*
+
+# Ignore all .pyc files
+__pycache__/
