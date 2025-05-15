@@ -1,7 +1,7 @@
 # 🌾 xAIDrivenHyperOpt
 
-<div style="background-color: white; display: inline-block; padding: 10px;">
-  <img src="./images/blockscheme.png" alt="results">
+<div style="display: inline-block; padding: 10px;">
+  <img src="./images/blockscheme-cap.png" alt="results">
 </div>
 
 xAIDrivenHyperOpt is a research-oriented framework designed to optimize Deep Learning models for **spaceborne hyperspectral image classification**, using **explainable AI (xAI)** to guide hyperparameter selection.
@@ -25,7 +25,7 @@ Instead of relying solely on validation accuracy, we evaluate the **consistency 
 
 
 
-📖 Learn more in the [official paper](https://github.com/ds4xai/xAIDrivenHyperOp).
+📖 Learn more in the [official paper](https://github.com/ds4xai/xAIDrivenHyperOpt/tree/main/paper%20(official)).
 
 ---
 
@@ -33,8 +33,8 @@ Instead of relying solely on validation accuracy, we evaluate the **consistency 
 ## 📦 Dataset Description
 
 <div style="display: flex; justify-content: center;">
-  <div style="background-color: white; padding: 10px; height: 350px; width: 1000px;">
-    <img src="./images/dataset.png" alt="results" style="display: block; margin: auto;">
+  <div style="padding: 10px; height: 500px; width: 1000px;">
+    <img src="./images/dataset-cap.png" alt="results" style="display: block; margin: auto;">
   </div>
 </div>
 
